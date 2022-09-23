@@ -81,7 +81,7 @@ bash scripts/run_eval_ec2.bash
 } 
 @inproceedings{biggs2020multibodies,
   author = "Biggs, Benjamin and Ehrhart, S{\'{e}}bastien and Joo, Hanbyul and Graham, Benjamin and Vedaldi, Andrea and Novotny, David",
-  title = "{3D} Multi\-bodies: Fitting Sets of Plausible {3D} Models to Ambiguous Image Data",
+  title = "{3D} Multibodies: Fitting Sets of Plausible {3D} Models to Ambiguous Image Data",
   booktitle = "NeurIPS",
   year = "2020",
 }
